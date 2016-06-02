@@ -1,0 +1,6 @@
+@charset "utf-8";
+/* CSS Document */
+#galeria img{
+	display:inline-block;
+	width: 600px;
+}
